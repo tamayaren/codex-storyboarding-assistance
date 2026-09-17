@@ -2,7 +2,7 @@ name = "moodboarder"
 description = "An agent that could gather useful inspirations online for an idea or concept that could be relevant to the given task presented by the user."
 
 model = "gpt-5.6-luna"
-model_reasoning_effort = "medium"
+model_reasoning_effort = "xhigh"
 sandbox_mode = "workspace-write"
 
 developer_instructions = """

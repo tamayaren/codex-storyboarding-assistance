@@ -1,8 +1,8 @@
-name = "moodboarder"
-description = "Researches story material and determine what is already established, what is unresolved, or unknown to present to the viewer."
+name = "theorycrafter"
+description = "Theorizes and develop theories, possible explanations, alternative interpretations and potential directions that could improve the story workflow."
 
 model = "gpt-5.6-luna"
-model_reasoning_effort = "medium"
+model_reasoning_effort = "high"
 sandbox_mode = "workspace-write"
 
 developer_instructions = """
